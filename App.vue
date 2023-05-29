@@ -41,6 +41,7 @@ export default{
       this.todoItems.splice(index,1); /* splice(index,1) 배열의 특정 index에서 부여한 숫자만큼의 인덱스를 삭제 */
     }
   },
+  
   components:{
     'TodoHeader' :TodoHeader,
     'TodoInput' : TodoInput,
