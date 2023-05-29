@@ -8,6 +8,7 @@
 </template>
 
 <script>
+/* 시발 버려졌네 */
 import TodoHeader from './components/TodoHeader.vue'
 import TodoInput from './components/TodoInput.vue'
 import TodoList from './components/TodoList.vue'
@@ -50,8 +51,6 @@ export default{
   }
 }
 </script>
-
-
 <style>
 body{
   text-align: center;
